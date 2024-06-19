@@ -19,3 +19,4 @@ let when = [
   "during my lunch",
   "while I was praying"
 ];
+let excuseGenerator = who[Math];
